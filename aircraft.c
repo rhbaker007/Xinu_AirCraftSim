@@ -34,13 +34,13 @@ int main(int argc, char *argv[])
 {
 int question = 0;
   
-int num = 0 , 
-int plane_Cont = 0,
-int x = 0 , 
-int lane_Cont = 0, 
-int ux = 0, 
-int vx = 0, 
-int gx = 1, 
+int num = 0;
+int plane_Cont = 0;
+int x = 0;
+int lane_Cont = 0; 
+int ux = 0;
+int vx = 0; 
+int gx = 1; 
 int run_S = 0;  
 int rc = 0;
 int rx = 0; 
